@@ -1,2 +1,2 @@
 # Mini-not-uygulamasi
- Windows form ile not uygulaması
+ Windows Forms ile not uygulaması
